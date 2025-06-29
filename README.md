@@ -1,5 +1,4 @@
-# DevOps-task2
-DevOps Task 2 Git Jenkins Docker
+Git Jenkins Docker
 
 Create container image that’s has Jenkins installed using docker file
 When we launch this image, it should automatically start the Jenkins service in the container.
